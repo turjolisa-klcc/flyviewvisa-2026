@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "flyviewvisa-2026",
+	"name": "flyviewvisa-global",
 	"compatibility_date": "2025-10-08",
 	"main": "./workers/app.ts",
 	"vars": {
